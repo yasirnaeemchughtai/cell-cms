@@ -1,0 +1,1 @@
+Cell aims to provide the idea content management framework for developers, designers, and end-clients alike. It is a true MVC based CMS with clean separation of concerns combined with an easy to use control panel for clients.
